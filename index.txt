@@ -1,12 +1,11 @@
-Autofix - Auto Maintenance & Repair Service
+FastLane - Auto Maintenance & Repair Service
 
-This is a vehicle repair html template made by codewithsadee
-
+Alphaotuken, also known as Talo, has created an HTML template for vehicle repair.
 
 
 #---------- HEADER ----------#
 
-alt = autofix home
+alt = fastlane home
 
 Home
 About
