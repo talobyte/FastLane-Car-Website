@@ -143,7 +143,7 @@ info@autofix.com
 
 alt = Shape
 
-Copyright 2022, codewithsadee All Rights Reserved.
+Copyright 2023, Talo All Rights Reserved.
 
 alt = Shape
 
